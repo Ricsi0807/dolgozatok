@@ -1,0 +1,32 @@
+Demeter Richárd'B' csoport. 2020.10.07
+
+1F.
+Teli elem, ha mind a két oldalán van címke. Pl: <head>
+<!DOCTYPE html> ez se nem teli, se nem üres, Ez egy speciális elem.
+Üres elem a <Tittle>
+
+
+2F.
+
+PL:<!DOCTYPE html>
+<html lang=hu'Ez azt jelenti, hogy az oldal a Magyar karaktereket is használhassa Pl: Ő,Ú,Ű,Á,
+<meta charset= 'UTF-8'
+
+3F. Az oldal fülén helenik meg.
+
+4F. meta description
+
+5F.
+<img src='../../alt'kép.jpg' />
+
+
++1F. <head> (Ez metaelemek tárolására alkalmas)
+
+<!DOCTYPE html>
+<html>
+<html lang='hu'>
+<head> 
+</head>
+<body>
+</body>
+</html>
